@@ -2,7 +2,7 @@
 title: Welcome to my blog!
 
 
-test
-test
+title: test
+text: test
 test
 ---
